@@ -10,6 +10,10 @@ Here are some ideas to get you started:-->
 - 🚀 I’m trying to develop myself for being an advanced
 - 🔎 I’m currently open for an internship or a new job opportunity 
 
+<p></p>
+<br></br>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=yasarzeynep&label=Profile%20views&color=0e75b6&style=flat" alt="yasarzeynep" /> </p>
+
 ## Github Stats
 <div align="center">
   <a href="https://github.com/yasarzeynep">
