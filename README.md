@@ -19,8 +19,8 @@ Here are some ideas to get you started:-->
   <a href="https://github.com/yasarzeynep">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yasarzeynep&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasarzeynep&layout=compact&langs_count=7&theme=dracula"/>
-
-  ##
+    
+### Tech Stack
   <div>
  <img align="center" alt="yasarzeynep-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="yasarzeynep-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -29,8 +29,8 @@ Here are some ideas to get you started:-->
   <img align="center" alt="yasarzeynep-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
  
 </div>
-  
-  ##
+
+### Connect with me
   <div>
  <a href = "mailto:zynpsema@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   <a href="https://www.linkedin.com/in/zeynep-yasar/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
