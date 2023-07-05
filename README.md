@@ -5,10 +5,10 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on Bootcamp Acceleration Program
-- 🌱 I’m currently learning JavaScript
+- 🔭 I’m a trainee of Full-Stack Development
+- 🌱 I’m currently learning .NET Core, ASP.NET and React.
 - 🚀 I’m trying to develop myself for being an advanced
-- 🔎 I’m currently open for an internship or a new job opportunity 
+- 🔎 I’m currently open for a new job opportunity 
 
 <p></p>
 <br></br>
@@ -20,7 +20,7 @@ Here are some ideas to get you started:-->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yasarzeynep&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasarzeynep&layout=compact&langs_count=7&theme=dracula"/>
     
-### Tech Stack
+###  Technologies and Tools
   <div>
  <img align="center" alt="yasarzeynep-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="yasarzeynep-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
