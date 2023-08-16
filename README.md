@@ -5,7 +5,6 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m a trainee of Full-Stack Development
 - 🌱 I’m currently learning .NET Core, ASP.NET and React.
 - 🚀 I’m trying to develop myself for being an advanced
 - 🔎 I’m currently open for a new job opportunity 
@@ -22,16 +21,23 @@ Here are some ideas to get you started:-->
     
 ###  Technologies and Tools
   <div>
- <img align="center" alt="yasarzeynep-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="yasarzeynep-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="yasarzeynep-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="yasarzeynep-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="yasarzeynep-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="yasarzeynep-Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt=".NET_Core_Logo" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png">
+  <img align="center" alt="yasarzeynep-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="yasarzeynep-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="yasarzeynep-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="yasarzeynep-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="yasarzeynep-TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
  
 </div>
 
 ### Connect with me
-  <div>
- <a href = "mailto:zynpsema@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  <a href="https://www.linkedin.com/in/zeynep-yasar/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    </div>
+<a href="mailto:zynpsema@gmail.com">
+  <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail">
+</a>
+<a href="https://www.linkedin.com/in/zeynep-yasar/" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn">
+</a>
+
+
+
