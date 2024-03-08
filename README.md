@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:-->
 
-- 🌱 I’m currently learning .NET Core, ASP.NET and React.
+- 🌱 I’m currently learning .NET Core, ASP.NET.
 - 🚀 I’m trying to develop myself for being an advanced
 - 🔎 I’m currently open for a new job opportunity 
 - 📫 How to reach me zy_yasar@outlook.com
